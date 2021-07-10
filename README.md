@@ -1,5 +1,5 @@
 # WEB App Kalkulator Sederhana
-<h1> Live Preview : <a href="https://yudha1121ay.github.io/calculator> Link </a></h1>
+<h1> Live Preview : <a href="https://yudha1121ay.github.io/calculator"> Link </a></h1>
 
 <h3> Dibuat dengan :</h3>
 <ul>
