@@ -8,4 +8,10 @@
     <li>Vanilla JS</li>
 </ul>
 
+<h3> Fitur : </h3>
+<ul>
+    <li>Menggunakan local storage untuk menyimpan riwayat operator</li>
+    <li>Responsive di mobile screen</li>
+</ul>
+
 <h3> Screenshot : </h3>
