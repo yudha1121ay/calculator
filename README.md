@@ -15,3 +15,13 @@
 </ul>
 
 <h3> Screenshot : </h3>
+<ul>
+    <li> Desktop Screen </li>
+    <img src="screenshot/pcscreen.png" heigh="400">
+    <br>
+    <li> Riwayat </li>
+    <img src="screenshot/riwayat.png" heigh="400">
+    <br>
+    <li> Mobile Screen </li>
+    <img src="screenshot/mobilescreen.jpg" width="400">
+</ul>
